@@ -280,7 +280,7 @@ p.note { display: none; }
 <h2><span class="yellow">猫ちゃんは夕飯</span></h2>
 <a href="20250926_054.JPG" target="_blank"><img src="20250926_054.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">AI(Gogle Gemin)に頼んで、芝桜バックのイラストにしてもらいました</span></h2>
+<h2><span class="yellow">AI(Google Gemin)に頼んで、芝桜バックのイラストにしてもらいました</span></h2>
 <a href="20250926_055.png" target="_blank"><img src="20250926_055.png" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br>
