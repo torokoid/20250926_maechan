@@ -265,8 +265,8 @@ p.note { display: none; }
 <a href="20250926_050.JPG" target="_blank"><img src="20250926_050.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">構内を行き来する学生さん達のバイク<br>以下2枚↓、画像クリックで動画再生します</span></h2>
-<a href="20250926_001.MOV" target="_blank"><img src="20250926_001.png" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250926_002.MOV" target="_blank"><img src="20250926_002.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250925_001.MOV" target="_blank"><img src="20250925_001.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="20250925_002.MOV" target="_blank"><img src="20250925_002.png" alt="サンプル画像" class="responsive-media"></a>
 
     
 <h2><span class="yellow">帰りに寄った雑貨屋さんの造花が鮮やか</span></h2>
