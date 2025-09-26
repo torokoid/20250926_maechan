@@ -266,6 +266,7 @@ p.note { display: none; }
     
 <h2><span class="yellow">構内を行き来する学生さん達のバイク<br>以下2枚↓、画像クリックで動画再生します</span></h2>
 <a href="20250925_001.MOV" target="_blank"><img src="20250925_001.png" alt="サンプル画像" class="responsive-media"></a>
+<br>
 <a href="20250925_002.MOV" target="_blank"><img src="20250925_002.png" alt="サンプル画像" class="responsive-media"></a>
 
     
