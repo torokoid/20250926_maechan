@@ -168,6 +168,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">メーチャンのLotus`sで知り合いの尼さんたちに遭遇</span></h2>
 <a href="20250926_003.JPG" target="_blank"><img src="20250926_003.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">写真撮ってたら、通りすがりの女性のお客さんがシャッター切ってくれました</span></h2>
 <a href="20250926_004.JPG" target="_blank"><img src="20250926_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250926_005.JPG" target="_blank"><img src="20250926_005.JPG" alt="サンプル画像" class="responsive-media"></a>
     
